@@ -3,5 +3,5 @@ db_session_manager.egg-info/PKG-INFO
 db_session_manager.egg-info/SOURCES.txt
 db_session_manager.egg-info/dependency_links.txt
 db_session_manager.egg-info/top_level.txt
-manager/__init__.py
-manager/core.py
+session_manager/__init__.py
+session_manager/core.py
